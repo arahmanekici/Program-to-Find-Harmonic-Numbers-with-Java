@@ -5,7 +5,7 @@ public class Main {
 
         Scanner input = new Scanner(System.in);
         System.out.println("Please enter the number: ");
-        double number = input.nextDouble();
+        int number = input.nextInt();
         double total= 0;
         double number1=0;
 
